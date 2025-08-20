@@ -9,15 +9,7 @@ O **Atento ServiceDesk** é um launcher desenvolvido para agilizar o atendimento
 
 ## 🎬 Demonstração da Interface
 
-![Interface do Atento ServiceDesk](docs/interface_screenshot.png)  
-
-> Tela principal do launcher com botões para scripts e manutenção.
-
-![Exemplo de execução de script](docs/script_execution.gif)  
-
-> Demonstração de execução automática de um script de limpeza de temporários.
-
----
+![Interface do Atento ServiceDesk](docs/screenshot-launcher.png)
 
 ## 📌 Índice
 
