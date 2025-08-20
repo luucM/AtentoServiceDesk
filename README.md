@@ -135,14 +135,15 @@ Name: "{commondesktop}\Atento ServiceDesk"; Filename: "{app}\atentoservicedesk.e
 Filename: "{app}\atentoservicedesk.exe"; Description: "Abrir Atento ServiceDesk"; Flags: nowait postinstall skipifsilent unchecked
 ```
 
-Compilação
+## Compilação
+```ini
 pyinstaller --noconsole --onefile --icon=icone.ico \
 --add-data "icone.ico;." \
 --add-data "icones;icones" \
 --add-data "regs;regs" \
 --add-data "limpa_temporarios.bat;." \
 atentoservicedesk.py
-
+```
 Considerações Finais
 
 O Atento ServiceDesk se apresenta como solução estratégica para agilizar e padronizar o atendimento técnico na empresa, promovendo ganhos operacionais e qualidade no suporte. A manutenção contínua e o foco em novas demandas garantirão a longevidade e a eficácia da ferramenta.
