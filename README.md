@@ -11,10 +11,6 @@ O **Atento ServiceDesk** é um launcher desenvolvido para agilizar o atendimento
 
 ![Interface do Atento ServiceDesk](docs/screenshot-launcher.png)
 
-# Atento ServiceDesk
-
-![Launcher](imagens/launcher.png)
-
 ## Sumário
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Escopo do Projeto](#escopo-do-projeto)
@@ -137,6 +133,7 @@ Name: "{commondesktop}\Atento ServiceDesk"; Filename: "{app}\atentoservicedesk.e
 
 [Run]
 Filename: "{app}\atentoservicedesk.exe"; Description: "Abrir Atento ServiceDesk"; Flags: nowait postinstall skipifsilent unchecked
+```
 
 Compilação
 pyinstaller --noconsole --onefile --icon=icone.ico \
