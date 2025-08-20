@@ -151,4 +151,5 @@ O Atento ServiceDesk se apresenta como solução estratégica para agilizar e pa
 ## Desenvolvimento e Colaborações
 
 Desenvolvedor: Lucas Felipe Ciríaco
+
 Colaboração: Rafael Paulino Ribas, Ruan Shizuo Miyagaki, Roger Paulino Ribas, Arthur Santana Pizolio e Henrique Santana Pardinho
