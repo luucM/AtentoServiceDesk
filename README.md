@@ -144,12 +144,11 @@ pyinstaller --noconsole --onefile --icon=icone.ico \
 --add-data "limpa_temporarios.bat;." \
 atentoservicedesk.py
 ```
-Considerações Finais
+## Considerações Finais
 
 O Atento ServiceDesk se apresenta como solução estratégica para agilizar e padronizar o atendimento técnico na empresa, promovendo ganhos operacionais e qualidade no suporte. A manutenção contínua e o foco em novas demandas garantirão a longevidade e a eficácia da ferramenta.
 
-Desenvolvimento e Colaborações
+## Desenvolvimento e Colaborações
 
 Desenvolvedor: Lucas Felipe Ciríaco
-
 Colaboração: Rafael Paulino Ribas, Ruan Shizuo Miyagaki, Roger Paulino Ribas, Arthur Santana Pizolio e Henrique Santana Pardinho
